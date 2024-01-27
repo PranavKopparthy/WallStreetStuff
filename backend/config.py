@@ -1,6 +1,0 @@
-openai_api_key = "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"
-r_client_id = "xVFsZXp0M6JlSLDUXq1epQ"
-r_client_secret = "NXpYN4U28kM1_N5l8LP95gR1tysr-A"
-r_user_agent = "wallstreet by /u/Idunno171"
-r_username = "Idunno171"
-r_password = "Bubbles123!"
