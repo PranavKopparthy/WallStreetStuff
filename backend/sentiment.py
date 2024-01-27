@@ -1,6 +1,7 @@
 from openai import OpenAI
+from config import openai_api_key
 
-client = OpenAI(api_key="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")
+client = OpenAI(openai_api_key)
 
 import re
 

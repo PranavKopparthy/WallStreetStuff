@@ -68,11 +68,6 @@ def get_rankings():
 
     result = {"tickers": list(sorted_rankings_dict.keys()), "indices": list(sorted_rankings_dict.values())}
     return json.dumps(result, indent=2)
-    
-
-
-    
-
 
 
 if __name__ == '__main__':
